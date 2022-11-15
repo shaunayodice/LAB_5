@@ -4,6 +4,8 @@
 # Question 1
 
 _Part A_
+![image](https://user-images.githubusercontent.com/98931471/202038502-597a7d9a-f9aa-46b1-9dd2-5db11ee76053.png)
+
 
 _Part B_
 
