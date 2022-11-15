@@ -13,6 +13,8 @@ _Part C_
 
 _Part D_
 
+The internal temperature sensor was used for this portion of the lab
+
 _Part E_
 
 
@@ -26,6 +28,9 @@ _Part B_
 _Part C_
 
 _Part D_
+
+![image](https://user-images.githubusercontent.com/98931471/202039046-f0668170-4c7a-420e-be61-f954095e0b1e.png)
+
 
 _Part E_
 
