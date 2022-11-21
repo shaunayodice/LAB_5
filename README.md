@@ -10,6 +10,7 @@ Within part A, we were tasked to be able to read the ambient temperature of the 
 _Part B_
 Level 0: 
 https://github.com/shaunayodice/LAB_5/blob/main/LEVEL0.PNG
+
 Level 1:
 https://github.com/shaunayodice/LAB_5/blob/main/LEVEL1.PNG
 
