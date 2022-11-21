@@ -16,7 +16,7 @@ _Part D_
 The internal temperature sensor was used for this portion of the lab
 
 _Part E_
-
+https://github.com/shaunayodice/LAB_5/blob/main/Code%20for%20Q1
 
 # Question 2
 
