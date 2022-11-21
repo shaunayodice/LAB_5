@@ -5,7 +5,7 @@
 
 _Part A_
 ![image](https://user-images.githubusercontent.com/98931471/202038502-597a7d9a-f9aa-46b1-9dd2-5db11ee76053.png)
-
+Within part A, we were tasked to be able to read the ambient temperature of the lab room. To do so, the internal temperature sensor embedded onto the MSP430FR2355 board was used. 
 
 _Part B_
 
