@@ -8,6 +8,9 @@ _Part A_
 Within part A, we were tasked to be able to read the ambient temperature of the lab room. To do so, the internal temperature sensor embedded onto the MSP430FR2355 board was used with ADC configuration. Within the code, both Celsius and Fahrenheit can be read within the register browser and graph. In specific, the register named ADCMEM0 was used to read the value of the temperature. In the photo shown above, it can be seen that a peak of 78 degrees Fahrenheit was detected. To be able to have this configuration, interupts and the ADC were enabled.
 
 _Part B_
+Level 0: https://github.com/shaunayodice/LAB_5/blob/main/LEVEL0.PNG
+
+Level 1:
 
 _Part C_
 
