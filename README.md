@@ -31,6 +31,9 @@ _Part A_
 ![image](https://user-images.githubusercontent.com/98931471/202036233-b93adb40-43b8-4371-be64-c97a3258d5fc.png)
 
 _Part B_
+Level 0: https://github.com/shaunayodice/LAB_5/blob/main/Level%200_Q2.png
+
+
 
 _Part C_
 
