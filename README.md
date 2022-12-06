@@ -26,7 +26,7 @@ https://github.com/shaunayodice/LAB_5/blob/main/LEVEL1.PNG
 
 _Part C_
 
-![image](https://user-images.githubusercontent.com/98931471/205791741-6b4f2052-6d89-41cf-92db-70c5058177c3.png)
+![image](https://user-images.githubusercontent.com/98931471/205972936-27cc0b81-1c3c-4eb6-bdde-3dcd1e5d600d.png)
 
 _Part D_
 
@@ -55,6 +55,9 @@ Level 1: https://github.com/shaunayodice/LAB_5/blob/main/Level%201_Q2.png
 
 
 _Part C_
+
+![image](https://user-images.githubusercontent.com/98931471/205972988-e1a63d10-df02-4cce-8375-95a51fad3843.png)
+
 
 _Part D_
 
