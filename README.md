@@ -26,6 +26,8 @@ https://github.com/shaunayodice/LAB_5/blob/main/LEVEL1.PNG
 
 _Part C_
 
+The image below shows the UML diagram for the use of the internal temperature sensor within the MSP 430 board. For this internal temperature sensor, ADC channel 12 was used.
+
 ![image](https://user-images.githubusercontent.com/98931471/205972936-27cc0b81-1c3c-4eb6-bdde-3dcd1e5d600d.png)
 
 _Part D_
@@ -55,6 +57,8 @@ Level 1: https://github.com/shaunayodice/LAB_5/blob/main/Level%201_Q2.png
 
 
 _Part C_
+
+The image below shows the UML diagram for utilizing the DHT 11 with the MSP 430 board. The process mirrors that of the internal temperature sensor. The change made was the ADC channel 1 was used for this sensor.
 
 ![image](https://user-images.githubusercontent.com/98931471/205972988-e1a63d10-df02-4cce-8375-95a51fad3843.png)
 
