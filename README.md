@@ -58,4 +58,7 @@ _Part D_
 
 _Part E_
 
+The code for this portion of the lab can be found at the following link:
+https://github.com/shaunayodice/LAB_5/blob/main/DHT_11
+
 
