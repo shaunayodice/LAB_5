@@ -24,6 +24,8 @@ https://github.com/shaunayodice/LAB_5/blob/main/LEVEL1.PNG
 
 _Part C_
 
+![image](https://user-images.githubusercontent.com/98931471/205791741-6b4f2052-6d89-41cf-92db-70c5058177c3.png)
+
 _Part D_
 
 The internal temperature sensor was used for this portion of the lab
