@@ -1,6 +1,6 @@
 # LAB_5
 
-#Contribution Chart
+# Contribution Chart
 
 ![image](https://user-images.githubusercontent.com/98931471/205790717-0204429d-c57f-45a6-91a1-e79317a093aa.png)
 
