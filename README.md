@@ -36,6 +36,8 @@ https://github.com/shaunayodice/LAB_5/blob/main/Code%20for%20Q1
 # Question 2
 
 _Part A_
+
+The image shown below depicts the temperature readings that were obtained using the DHT 11 temperature sensor. Using ADC, we were able to DHT 11 to read the temperature of the room. In this image shown below, you can see the temperature begins at zero and then rises to about room temperature. This indicates that the sensor was working as expected and begin reading the temperature and stored it in the ADCMEM
 ![image](https://user-images.githubusercontent.com/98931471/202036233-b93adb40-43b8-4371-be64-c97a3258d5fc.png)
 
 _Part B_
