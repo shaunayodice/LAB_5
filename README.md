@@ -14,6 +14,8 @@ _Part A_
 Within part A, we were tasked to be able to read the ambient temperature of the lab room. To do so, the internal temperature sensor embedded onto the MSP430FR2355 board was used with ADC configuration. Within the code, both Celsius and Fahrenheit can be read within the register browser and graph. In specific, the register named ADCMEM0 was used to read the value of the temperature. In the photo shown above, it can be seen that a peak of 78 degrees Fahrenheit was detected. To be able to have this configuration, interupts and the ADC were enabled.
 
 _Part B_
+
+
 Level 0: 
 https://github.com/shaunayodice/LAB_5/blob/main/LEVEL0.PNG
 
@@ -28,7 +30,7 @@ _Part C_
 
 _Part D_
 
-The internal temperature sensor was used for this portion of the lab
+The internal temperature sensor was used for this portion of the lab.
 
 _Part E_
 https://github.com/shaunayodice/LAB_5/blob/main/Code%20for%20Q1
@@ -52,6 +54,8 @@ Level 0: https://github.com/shaunayodice/LAB_5/blob/main/Level%200_Q2.png
 _Part C_
 
 _Part D_
+
+The image below shows the schematic for the DHT 11 temperature sensor configuration. This sensor uses ADC for communiction so it only has a singular data pin. The other pins are connected to power and ground respectively with their indicated resistors as shown. 
 
 ![image](https://user-images.githubusercontent.com/98931471/202039046-f0668170-4c7a-420e-be61-f954095e0b1e.png)
 
