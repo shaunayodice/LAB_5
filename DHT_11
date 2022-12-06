@@ -89,8 +89,8 @@ int main(void)
     WDTCTL = WDTPW | WDTHOLD;// Stop WDT
 
     // Configure ADC Pin
-        P1SEL0 |= BIT1; //This sets P1 to ADC mode
-        P1SEL1 |= BIT1;
+        P1SEL0 |= BIT3; //This sets P1 to ADC mode
+        P1SEL1 |= BIT3;
 
     TB0CCTL0 |= CCIE;                                             // TBCCR0 interrupt enabled
     TB0CCR0 = 65535;
