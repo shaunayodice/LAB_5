@@ -49,6 +49,9 @@ The Level 0 block diagram for the DHT 11 can be found at the following link belo
 
 Level 0: https://github.com/shaunayodice/LAB_5/blob/main/Level%200_Q2.png
 
+The Level 1 block diagram for the DHT 11 is found at the following link.
+
+Level 1: https://github.com/shaunayodice/LAB_5/blob/main/Level%201_Q2.png
 
 
 _Part C_
