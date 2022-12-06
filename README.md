@@ -15,6 +15,7 @@ Within part A, we were tasked to be able to read the ambient temperature of the 
 
 _Part B_
 
+The followings links include the Level 0 and Level 1 block diagrams for using the interanl temperature sensor.
 
 Level 0: 
 https://github.com/shaunayodice/LAB_5/blob/main/LEVEL0.PNG
